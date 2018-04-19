@@ -1,0 +1,3 @@
+add_lunch_combo aosp_klte-user
+add_lunch_combo aosp_klte-userdebug
+add_lunch_combo aosp_klte-eng
